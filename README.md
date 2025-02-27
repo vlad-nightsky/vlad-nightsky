@@ -1,7 +1,6 @@
-Даров ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) я Владос Кирьянов
-=======================================================================================================================================
-
-Backend lead из далёких южных степей
+🤠 Владос Кирьянов [![](https://www.codewars.com/users/vlad-nightsky/badges/micro)](https://www.codewars.com/users/vlad-nightsky)
+===
+Backend Lead из далёких южных степей
 ------------------------------------
 [![Static Badge](https://img.shields.io/badge/%D1%81%D0%B2%D1%8F%D0%B7%D1%8C_%D1%81%D0%BE_%D0%BC%D0%BD%D0%BE%D0%B9-t?style=flat&logo=telegram&logoColor=26A5E4&label=vnightsky&labelColor=ffffff&color=26A5E4)](https://t.me/vnightsky) [![Static Badge](https://img.shields.io/badge/%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D1%80?style=flat&logo=habr&logoColor=65A3BE&labelColor=ffffff&color=65A3BE)](https://career.habr.com/vlad-nightsky)
 
@@ -25,5 +24,4 @@ Backend lead из далёких южных степей
 
 |**Бекенд**|**Инструменты**|**Фронт**|
 |-|--|--|
-|[![Backend](https://skillicons.dev/icons?i=java,spring,mongodb,maven,nginx,gradle,kafka,postgres,react&perline=3)](https://skillicons.dev)|[![Tools](https://skillicons.dev/icons?i=obsidian,notion,figma,docker,bitbucket,apple,git,github,idea,jenkins,linux,md,postman,vscode&perline=6)](https://skillicons.dev)|[![Front](https://skillicons.dev/icons?i=html,js,npm,wordpress,react&perline=3)](https://skillicons.dev)|
-
+|![Backend](https://skillicons.dev/icons?i=java,spring,mongodb,maven,nginx,gradle,kafka,postgres,react&perline=3)|![Tools](https://skillicons.dev/icons?i=obsidian,notion,figma,docker,bitbucket,apple,git,github,idea,jenkins,linux,md,postman,vscode&perline=6)|![Front](https://skillicons.dev/icons?i=html,js,npm,wordpress,react&perline=3)|
