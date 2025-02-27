@@ -3,6 +3,11 @@
 
 Backend lead из далёких южных степей
 ------------------------------------
+[![Static Badge](https://img.shields.io/badge/%D1%81%D0%B2%D1%8F%D0%B7%D1%8C_%D1%81%D0%BE_%D0%BC%D0%BD%D0%BE%D0%B9-t?style=flat&logo=telegram&logoColor=26A5E4&label=vnightsky&labelColor=ffffff&color=26A5E4)](https://t.me/vnightsky) [![Static Badge](https://img.shields.io/badge/%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D1%80?style=flat&logo=habr&logoColor=65A3BE&labelColor=ffffff&color=65A3BE)](https://career.habr.com/vlad-nightsky)
+
+
+
+
 
 * 💻 Уже более 5 лет я разрабатываю и поддерживаю бэкенд-микросервисы в компании FoodTech Lab.
 
@@ -16,16 +21,9 @@ Backend lead из далёких южных степей
 * 🧠  Усилено учу Flutter, PostgreSQL и новинки Java и Spring
 * 🎣 Помимо прочего, я ещё и жёсткий рыбак.
 
-### Навыки
+## 💪🏻 Навыки
 
-|**База**|**Инструменты**|**Фронт**|
+|**Бекенд**|**Инструменты**|**Фронт**|
 |-|--|--|
-|<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>|<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>|<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>|
+|[![Backend](https://skillicons.dev/icons?i=java,spring,mongodb,maven,nginx,gradle,kafka,postgres,react&perline=3)](https://skillicons.dev)|[![Tools](https://skillicons.dev/icons?i=obsidian,notion,figma,docker,bitbucket,apple,git,github,idea,jenkins,linux,md,postman,vscode&perline=6)](https://skillicons.dev)|[![Front](https://skillicons.dev/icons?i=html,js,npm,wordpress,react&perline=3)](https://skillicons.dev)|
 
-|**Бекенд**|
-|:-:|
-|<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>|
-
-### Соц сети
-
-<p align="left"> <a href="https://www.github.com/vlad-nightsky" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
