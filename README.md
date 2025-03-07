@@ -2,7 +2,7 @@
 ===
 Backend Lead из далёких южных степей
 ------------------------------------
-[![Static Badge](https://img.shields.io/badge/%D1%81%D0%B2%D1%8F%D0%B7%D1%8C_%D1%81%D0%BE_%D0%BC%D0%BD%D0%BE%D0%B9-t?style=flat&logo=telegram&logoColor=26A5E4&label=vnightsky&labelColor=ffffff&color=26A5E4)](https://t.me/vnightsky) [![Static Badge](https://img.shields.io/badge/%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D1%80?style=flat&logo=habr&logoColor=65A3BE&labelColor=ffffff&color=65A3BE)](https://career.habr.com/vlad-nightsky)
+[![Static Badge](https://img.shields.io/badge/%D1%81%D0%B2%D1%8F%D0%B7%D1%8C_%D1%81%D0%BE_%D0%BC%D0%BD%D0%BE%D0%B9-t?style=flat&logo=telegram&logoColor=26A5E4&label=vnightsky&labelColor=ffffff&color=26A5E4)](https://t.me/vnightsky) [![Static Badge](https://img.shields.io/badge/%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D1%80?style=flat&logo=habr&logoColor=65A3BE&labelColor=ffffff&color=65A3BE)](https://career.habr.com/vlad-nightsky) [![wakatime](https://wakatime.com/badge/user/be0f4172-2496-4286-b811-398a7784b9b9.svg)](https://wakatime.com/@be0f4172-2496-4286-b811-398a7784b9b9)
 
 
 
