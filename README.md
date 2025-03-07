@@ -24,4 +24,10 @@ Backend Lead из далёких южных степей
 
 |**Бекенд**|**Инструменты**|**Фронт**|
 |-|--|--|
-|![Backend](https://skillicons.dev/icons?i=java,spring,mongodb,maven,nginx,gradle,kafka,postgres,react&perline=3)|![Tools](https://skillicons.dev/icons?i=obsidian,notion,figma,docker,bitbucket,apple,git,github,idea,jenkins,linux,md,postman,vscode&perline=6)|![Front](https://skillicons.dev/icons?i=html,js,npm,wordpress,react&perline=3)|
+|![Backend](https://skillicons.dev/icons?i=java,spring,mongodb,maven,nginx,gradle,kafka,postgres,react&theme=light&perline=3)|![Tools](https://skillicons.dev/icons?i=obsidian,notion,figma,docker,bitbucket,apple,git,github,idea,jenkins,linux,md,postman,vscode&theme=light&perline=6)|![Front](https://skillicons.dev/icons?i=html,js,npm,wordpress,react&theme=light&perline=3)|
+
+## 📚 Обучение и знания
+Каждый день стараюсь продолжать изучать новое и освежать навыки в дисциплинах, которые кажутся изученными вдоль и поперёк.
+
+### Roadmap.sh
+[![roadmap.sh](https://roadmap.sh/card/wide/65ca2de6d789a518cf33c6a9?variant=light)](https://roadmap.sh)
