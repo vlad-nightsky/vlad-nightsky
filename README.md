@@ -31,3 +31,6 @@ Backend Lead из далёких южных степей
 
 ### Roadmap.sh
 [![roadmap.sh](https://roadmap.sh/card/wide/65ca2de6d789a518cf33c6a9?variant=light)](https://roadmap.sh)
+
+## Просмотры 
+![:vnightsky_views](https://count.getloli.com/@:vnightsky_views?theme=booru-lewd&padding=3)
